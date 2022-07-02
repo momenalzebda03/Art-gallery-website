@@ -1,0 +1,228 @@
+.black {
+    margin-top: -0.6%;
+    margin-left: -0.6%;
+    background-color: black;
+    height: 570px;
+    width: 25%;
+}
+.modern1 {
+    font-size: 250%;
+    color: white;
+    position: absolute;
+    top: 18%;
+    left: 14%;
+}
+.ART {
+    font-size: 250%;
+    color: white;
+    position: absolute;
+    top: 24%;
+    left: 14%;
+}
+.span {
+    font-size: 250%;
+    position: absolute;
+    top: 27.5%;
+    left: 25%;
+    color: black;
+}
+.span1 {
+    font-size: 250%;
+    position: absolute;
+    top: 21.5%;
+    left: 25%;
+    color: black;
+}
+.stratimg {
+    position: absolute;
+    top: -10%;
+    left: 24.7%;
+    height: 645px;
+    width: 35%;
+}
+.divthe {
+   color: black;
+   position: absolute;
+   top: 15%;
+   left: 56%;
+}
+.our {
+    color: white;
+    background-color: black;
+    position: absolute;
+    left: 56%;
+    top: 45%;
+    padding: 0.5%;
+}
+.rightarrow {
+    text-align: center;
+    position: absolute;
+    left: 66.5%;
+    top: 45%;
+    color: white;
+    width: 1%;
+    height: 38px;
+    background-color: orange;
+}
+.our:hover {
+    background-color: white;
+    color: black;
+    transition: 1s;
+}
+.rightarrow:hover {
+    background-color: white;
+    color: black;
+    transition: 1s;
+}
+.your {
+    margin-left: 7%;
+    margin-top: 9%;
+}
+.your1 {
+    font-size: 240%;
+    margin-top: -1%;
+}
+.wander {
+    color: gray;
+    margin-top: -1%;
+}
+.img {
+    width: 30%;
+    margin-top: -20%;
+    margin-left: 55%;
+}
+.stopimg {
+    height: 600px;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.stopimg1 {
+    position: absolute;
+    top: 129.5%;
+    right: 15%;
+    width: 20%;
+}
+.black1 {
+    background-color: black;
+    height: 350px;
+    width: 20.5%;
+    margin-top: -25%;
+    margin-left: 65%;
+}
+.come1 {
+    font-size: 250%;
+    position: absolute;
+    top: 162%;
+    left: 67%;
+    color: white;
+}
+.come2 {
+    font-size: 250%;
+    position: absolute;
+    top: 167%;
+    left: 67%;
+    color: white;
+}
+.were {
+    position: absolute;
+    top: 175%;
+    left: 67%;
+    color: white;
+}
+.were1 {
+    position: absolute;
+    top: 180%;
+    left: 67%;
+    color: white;
+}
+.were2 {
+    position: absolute;
+    top: 185%;
+    left: 67%;
+    color: white;
+}
+.stopdiv {
+    background-color: black;
+    height: 250px;
+    width: 101.1%;
+    margin-top: 5%;
+    margin-left: -0.6%;
+}
+.modern {
+    position: absolute;
+    top: 225%;
+    left: 5%;
+    color: white;
+}
+.modern2 {
+    position: absolute;
+    top: 230%;
+    left: 5%;
+    color: white;
+}
+.the1 {
+    font-size: 100%;
+    position: absolute;
+    top: 225%;
+    left: 30%;
+    color: rgba(255, 255, 255, 0.549);
+}
+.the2 {
+    font-size: 100%;
+    position: absolute;
+    top: 230%;
+    left: 30%;
+    color: rgba(255, 255, 255, 0.549);
+}
+.the3 {
+    font-size: 100%;
+    position: absolute;
+    top: 235%;
+    left: 30%;
+    color: rgba(255, 255, 255, 0.549);
+}
+.the1:hover {
+    color: white;
+    transition: 1s;
+}
+.the2:hover {
+    color: white;
+    transition: 1s;
+}
+.the3:hover {
+    color: white;
+    transition: 1s;
+}
+.fesbook {
+    border-radius: 50%;
+    position: absolute;
+    top: 230%;
+    left: 75%;
+    width: 2%;
+}
+.instergam {
+    border-radius: 50%;
+    position: absolute;
+    top: 230%;
+    left: 80%;
+    width: 2%;
+}
+.twwter {
+    border-radius: 50%;
+    position: absolute;
+    top: 231%;
+    left: 85%;
+    width: 2%;
+}
+.fesbook:hover {
+    width: 3%;
+    transition: 1s;
+}
+.instergam:hover {
+    width: 3%;
+    transition: 1s;
+}
+.twwter:hover {
+    width: 3%;
+    transition: 1s;
+}
